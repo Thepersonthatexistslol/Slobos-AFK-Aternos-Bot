@@ -8,7 +8,7 @@
   "server": {
     "ip": "idiocy.aternos.me",
     "port": 25001,
-    "version": "1.21.4",
+    "version": "1.21.5",
     "try-creative": false
   },
   "position": {
